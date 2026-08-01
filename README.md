@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0680-valid-palindrome-ii](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -51,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->

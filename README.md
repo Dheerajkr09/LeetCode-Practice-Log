@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0347-top-k-frequent-elements](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0049-group-anagrams](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0347-top-k-frequent-elements](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Union-Find
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bucket Sort
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0347-top-k-frequent-elements](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
@@ -66,4 +69,9 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->

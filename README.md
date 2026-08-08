@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0680-valid-palindrome-ii](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |

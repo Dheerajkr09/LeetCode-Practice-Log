@@ -1,34 +1,30 @@
+
 class Solution {
 public:
     int lengthOfLastWord(string s) {
         int n = s.size();
         int count = 0;
-        int idx = n-1; //n-1
-        int newidx = 0;
+        int idx = n-1;        // last character se start
+        int spaceCount = 0;   // trailing spaces ginne ke liye
 
        if(s[idx] == ' ')
        {
               while(s[idx] == ' ')
             {
-               newidx++; //spaces count stored
+               spaceCount++;  // spaces count stored
                idx--;
             }
 
        }
           
-            int updated_idx = n-1-newidx;
+            int wordEndIdx = n-1-spaceCount;   // last word ka actual end index
        
-             while(updated_idx >= 0 && s[updated_idx] != ' ')
+             while(wordEndIdx >= 0 && s[wordEndIdx] != ' ')  // bounds check + space na aaye tab tak
              {
                 count++;
-                updated_idx--;
+                wordEndIdx--;
              }
 
             return count;
-    
-
-       
-       
-        
     }
 };

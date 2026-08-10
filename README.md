@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0680-valid-palindrome-ii](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0796-rotate-string) |
 ## Sorting
 |  |
 | ------- |
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->

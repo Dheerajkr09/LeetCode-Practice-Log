@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0220-contains-duplicate-iii) |
+| [0303-range-sum-query-immutable](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
@@ -99,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->

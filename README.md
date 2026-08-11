@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0018-4sum](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0796-rotate-string) |
+## Binary Search
+|  |
+| ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->

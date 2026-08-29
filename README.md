@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0303-range-sum-query-immutable](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 ## Hash Table
@@ -118,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+## Matrix
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
+## Simulation
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->

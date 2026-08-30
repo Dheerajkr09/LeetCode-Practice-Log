@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0303-range-sum-query-immutable](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0334-increasing-triplet-subsequence](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 ## Sliding Window
 |  |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->

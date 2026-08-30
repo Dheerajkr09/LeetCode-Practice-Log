@@ -4,25 +4,29 @@ public:
         int n = nums.size();
         int nums1 = INT_MAX;
         int nums2 = INT_MAX;
-       
-        int i = 0;
-        while(i < n)
+
+        for(int i = 0;i < n;i++)
         {
-            if(nums1 >= nums[i])
+            int nums3 = nums[i];
+
+            if(nums1 >= nums3)
             {
-                nums1 = nums[i];
+                nums1 = nums3;
             }
-            else if(nums2 >= nums[i])
+            else if(nums2 >= nums3)
             {
-                nums2 = nums[i];
+                nums2 = nums3;
             }
-            else{
+            else
+            {
                 return true;
             }
-            i++;
+
+          
+
         }
 
-        return false;
+          return false;
         
     }
 };

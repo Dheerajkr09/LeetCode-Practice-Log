@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 ## DP on Trees

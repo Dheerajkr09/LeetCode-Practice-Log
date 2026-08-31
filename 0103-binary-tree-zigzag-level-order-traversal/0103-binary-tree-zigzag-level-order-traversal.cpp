@@ -1,46 +1,47 @@
 class Solution {
 public:
     vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
-        vector<vector<int>>result;
+        vector<vector<int>> result;                 // final answer — sab levels ki rows
 
         if(root == NULL)
         {
-            return result;
+            return result;                            // empty tree → empty result
         }
 
-        queue<TreeNode*>q;
+        queue<TreeNode*> q;                          // BFS queue
 
-        q.push(root);
+        q.push(root);                                 // level 0 se start
 
-        bool lefttoright = true;
+        bool lefttoright = true;                      // level 0 hamesha L→R
 
-        while(!q.empty())
+        while(!q.empty())                             // jab tak levels bache hain
         {
-            int n = q.size();
-            
-            vector<int> row(n);
+            int n = q.size();                          // current level ke total nodes (fix karo pehle hi)
 
-           for(int i = 0;i < n;i++)
+            vector<int> row(n);                        // is level ka result (fixed size)
+
+           for(int i = 0;i < n;i++)                     // sirf current level process karo
             {
-                TreeNode* node = q.front();
-                q.pop();
-                int index = lefttoright ? i : n-i-1;
-                row[index] = node->val;
+                TreeNode* node = q.front();              // agla node uthao
+                q.pop();                                 // queue se hata do
+
+                int index = lefttoright ? i : n-i-1;      // direction ke hisaab se position
+                row[index] = node->val;                   // value us position pe rakho
 
                 if(node->left)
                 {
-                    q.push(node->left);
+                    q.push(node->left);                   // next level ke liye left child
                 }
                 if(node->right)
                 {
-                    q.push(node->right);
+                    q.push(node->right);                  // next level ke liye right child
                 }
             }
-            lefttoright = !lefttoright;  //flip
-            result.push_back(row);
+            lefttoright = !lefttoright;  //flip           // agle level ke liye direction ulti
+            result.push_back(row);                        // ye level ka row final answer mein
 
         }
-        return result;
+        return result;                                    // saare levels done
 
         
     }

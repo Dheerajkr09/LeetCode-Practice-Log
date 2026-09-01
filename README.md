@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0498-diagonal-traverse](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+| [0766-toeplitz-matrix](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/1329-sort-the-matrix-diagonally) |
 ## Hash Table
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
+| [0766-toeplitz-matrix](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/1329-sort-the-matrix-diagonally) |
 ## Simulation
 |  |

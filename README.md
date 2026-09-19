@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0058-length-of-last-word](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0680-valid-palindrome-ii](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0796-rotate-string) |
+| [1143-longest-common-subsequence](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -175,4 +176,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->

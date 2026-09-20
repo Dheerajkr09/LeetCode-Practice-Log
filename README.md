@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0503-next-greater-element-ii](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0766-toeplitz-matrix](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
+| [1254-number-of-closed-islands](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/1329-sort-the-matrix-diagonally) |
 ## Hash Table
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0766-toeplitz-matrix](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
+| [1254-number-of-closed-islands](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/1329-sort-the-matrix-diagonally) |
 ## Simulation
 |  |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0110-balanced-binary-tree](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -168,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/Dheerajkr09/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 ## DP on Trees
 |  |
 | ------- |
